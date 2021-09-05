@@ -1,0 +1,23 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+#increament-btn {
+  opacity: 1;
+  transition: 0.3s opacity linear;
+  animation: 3s fade infinite;
+}
+
+/* #increament-btn:hover {
+  opacity: 0.5;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+} */
